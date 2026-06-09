@@ -25,9 +25,6 @@ https://raw.githubusercontent.com/Ankitakambad/Hotel-Booking-Cancellation-Analys
 4.	Show key stats, such as bookings, cancellations, and guest types.
 5.	Analyze results to help hotels make better decisions.
 
-## Dashboard
-C:\Users\Lenovo\Downloads\Hotel-Booking-Cancellation-Analysis-main\Hotel-Booking-Cancellation-Analysis-main\Screenshot 2025-10-18 215518.png
-
 ## Project Insight
 - Hotels can quickly see bookings, cancellations, and guest trends in one place.​
 - Staff get easy visuals to spot busy times or problems and act fast.​
